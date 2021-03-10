@@ -1,0 +1,50 @@
+2021-03-10 11:58:30 [WARN] warning log
+2021-03-10 11:58:30 [CRIT] critical log
+2021-03-10 12:02:29 [INFO] info log
+2021-03-10 12:02:29 [WARN] warning log
+2021-03-10 12:02:29 [CRIT] critical log
+2021-03-10 12:02:29 [DEBU] debug log
+2021-03-10 12:02:43 [INFO] info log
+2021-03-10 12:02:43 [WARN] warning log
+2021-03-10 12:02:43 [CRIT] critical log
+2021-03-10 12:02:43 [DEBU] debug log
+2021-03-10 12:03:16 [INFO    ] info log
+2021-03-10 12:03:16 [WARNING ] warning log
+2021-03-10 12:03:16 [CRITICAL] critical log
+2021-03-10 12:03:16 [DEBUG   ] debug log
+2021-03-10 14:56:32 [INFO    ] values = 3 : option_string = --input
+2021-03-10 14:56:32 [INFO    ] call input function with parameter: values=3
+2021-03-10 15:10:29 [INFO    ] values = 30 : option_string = --input
+2021-03-10 15:10:29 [INFO    ] call input function with parameter: values=30
+2021-03-10 15:17:06 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:17:06 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:17:06 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:19:21 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:19:21 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:19:21 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:19:46 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:19:46 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:19:46 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:19:52 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:19:52 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:19:52 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:22:06 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:22:06 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:22:06 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:22:56 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:22:56 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:22:56 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:25:10 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:25:10 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:25:10 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:25:44 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:25:44 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:25:44 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:30:36 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:30:36 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:30:36 [DEBUG   ] call input function with parameter: values=20
+2021-03-10 15:30:36 [DEBUG   ] Debug logging enabled
+2021-03-10 15:30:36 [DEBUG   ] Debug logging enabled
+2021-03-10 15:30:41 [INFO    ] values = 20 : option_string = --input
+2021-03-10 15:30:41 [INFO    ] call input function with parameter: values=20
+2021-03-10 15:30:41 [DEBUG   ] call input function with parameter: values=20

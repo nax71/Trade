@@ -1,0 +1,6 @@
+2021-03-09 16:12:08,404 : WARNING : __main__ : Something is not right.
+2021-03-09 16:12:08,404 : ERROR : __main__ : A Major error has happened.
+2021-03-09 16:12:08,404 : CRITICAL : __main__ : Fatal error. Cannot continue
+2021-03-09 16:12:12,332 : WARNING : __main__ : Something is not right.
+2021-03-09 16:12:12,332 : ERROR : __main__ : A Major error has happened.
+2021-03-09 16:12:12,332 : CRITICAL : __main__ : Fatal error. Cannot continue
